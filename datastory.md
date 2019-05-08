@@ -22,7 +22,7 @@ took the top 3 spots.
 
 How to ensure that I don’t have an issue?  There are no guarantees in life, but prevention measures taken can reduce the possibility.  As previously mentioned, restrain from taking in used furniture and stay away from used mattresses.  There is a reason they are called bedbugs!  Also, avoiding clutter, cleanliness and sealing cracks will reduce places they can hide and incubate.
 
-<img src="Top10_Boroughs.PNG" width="300"> <img src="Top10_Neighborhoods.PNG" width="300">
+<img src="Top10_Boroughs.PNG" width="400"> <img src="Top10_Neighborhoods.PNG" width="400">
 
 The charts above outline the problematic areas on the island of Montreal from a borough and neighborhood perspective.  The Top 5 (worst) boroughs account for 59% of the declared cases since 2011.  The Top 5 (worst) neighborhoods are all part of the Top 5 (worst) boroughs with Cremazie and Parc-Extension the only repeated borough (Villeray-Saint Michel-Parc Extension).
 
