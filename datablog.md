@@ -33,7 +33,7 @@ As we have seen with the monthly breakdown chart, the volume of reported cases i
 
 Based on our descriptive analysis, the St-Laurent borough would be a place to investigate further.  While looking at the chart by year, we must ask ourselves the question “Why was there such sharp changes within a 3-year period?”.  There were decreases of 70% and 84% and in between an increase of 518% for the years 2016 - 2018.  Can the changes be attributed to clerical error or an actual problem that flared up, was controlled and resolved?
 
-Another question to ask ourselves based on this data, why the same boroughs consistently appear within the top 5 for declarations?  Age of the homes, socio-economic factors, population density…?
+Another question to ask ourselves based on this data, why the same boroughs consistently appear within the top 5 for declarations?  Condition/age of the homes, socio-economic factors, population density…?
 
 
 1* (http://www.environnement.gouv.qc.ca/pesticides/permis-en/code-gestion-en/BedBugControl.pdf)
