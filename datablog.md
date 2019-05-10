@@ -31,11 +31,9 @@ The data encompasses all official declarations made to the city associated to an
 
 As we have seen with the monthly breakdown chart, the volume of reported cases is higher between June and November. What can be some causes? Better weather gets more people out, interacting and moving around enabling bedbugs more carriers to allow them to move from place to place. This period also coincides with moving season in which people rid themselves of unwanted furniture which can make their way back into another home.  Based on government documentation, 2 of the methods for removal of bedbugs are through heat or cold treatments.  Keeping them in -18 degrees Celsius for a minimum of 84 hours or heat above 48 degrees for a certain amount of time dependent on the affected area/item/object (1*). The 18 degrees below Celsius is a great indicator of why the declarations are reduced during the winter period. They would not survive outdoors for a prolonged period of time and are restricted to remaining indoors curtailing the spread during this period.
 
-The remaining are very low volumes or a decrease from the previous year. A borough to gather more insight on would be Saint-Laurent. We see during the last 3 years a decline of 70%, increase of 518% and decline of 84%.
+Based on our descriptive analysis, the St-Laurent borough would be a place to investigate further.  While looking at the chart by year, we must ask ourselves the question “Why was there such sharp changes within a 3-year period?”.  There were decreases of 70% and 84% and in between an increase of 518% for the years 2016 - 2018.  Can the changes be attributed to clerical error or an actual problem that flared up, was controlled and resolved?
 
-Based on our descriptive analysis, the St-Laurent borough would be a place to investigate further.  We must ask ourselves the question “Why was there such sharp changes within a 3-year period?”.  There were decreases of 70% and 84% and in between an increase of 518% for the years 2016 - 2018.  Can the changes be attributed to clerical error or an actual problem that flared up, was controlled and resolved?
-
-Another question to ask ourselves based on the data, why the same boroughs consistently appear within the top 5 for declarations?  Age of the homes, socio-economic factors, population density…?
+Another question to ask ourselves based on this data, why the same boroughs consistently appear within the top 5 for declarations?  Age of the homes, socio-economic factors, population density…?
 
 
 1* (http://www.environnement.gouv.qc.ca/pesticides/permis-en/code-gestion-en/BedBugControl.pdf)
