@@ -3,7 +3,7 @@
 
 
 
-##Descriptive
+#### Descriptive
 
 
  <img src="bb_boro_mth.png" width="600">
@@ -32,7 +32,7 @@ The chart above identifies the declarations by borough on a yearly basis.  We ca
 As you can see above, the top 5 boroughs, in terms of reported declarations share the same borders.
 
 
-##Diagnostics
+#### Diagnostics
 
 The data encompasses all official declarations made to the city associated to an extermination. As specified on the city dataset site, any declaration that is not associated to an extermination has been removed from the dataset. Those entries account for 7% of the declarations and would translate to approximately 2335 declarations (2*).  Also, there is no guarantee that all infestations within each borough was reported so the possibility exists that besides the removed declarations other undeclared/uninspected homes existed within any given year which would raise the totals.
 
