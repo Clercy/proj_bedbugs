@@ -12,10 +12,11 @@ The data chart above gives us a glimpse into the breakdown of declarations made 
 The lowest number of cases can be found between the period of December to May with January, April and May totaling the least.  After a low in May, we can see a surge going into the summer period with increases between May to June and June to July of 23% and 26% respectively giving us an augmentation of reported cases from May to July of 55.5%.
 
 
+
 <img src="bymonth.PNG" width="600">
 
 
-The chart above aids in visualizing what seems to be a correlation to the change in weather.
+As we can see in the chart there seems to be a positive correlation between the change in weather and an increase in declarations.
 
 
 <img src="bb_boro_year.png" width="600">
