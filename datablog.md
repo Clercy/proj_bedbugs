@@ -16,7 +16,7 @@ The lowest number of cases can be found between the period of December to May wi
 <img src="bymonth.PNG" width="600">
 
 
-As we can see in the chart there seems to be a positive correlation between the change in weather and an increase in declarations.
+As we can see in the chart, there seems to be a positive correlation between the change in weather and an increase in declarations.
 
 
 <img src="bb_boro_year.png" width="600">
